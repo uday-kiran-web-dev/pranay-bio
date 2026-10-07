@@ -1,0 +1,80 @@
+export const projects = [
+  {
+    id: "01",
+    slug: "flipkart-campaign",
+    client: "FLIPKART",
+    category: "Campaign Edits | Motion Graphics",
+    badge: "01",
+    description: "High-energy commercial cut crafted for digital marketing promotions, retention hooks, and product highlights.",
+    roles: ["Video Editing", "Pacing & Rhythm", "Sound Design"],
+    tools: ["Adobe Premiere Pro", "Adobe After Effects"],
+    aspectRatio: "16:9",
+    thumbnail: "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?q=80&w=1200&auto=format&fit=crop",
+    brandBg: "from-[#1E50A2] to-[#2874F0]"
+  },
+  {
+    id: "02",
+    slug: "kuku-fm-audio-stories",
+    client: "KUKU FM",
+    category: "Video Edits | Social Media Content",
+    badge: "02",
+    description: "Immersive short-form social asset pairing audio drama hooks with kinetic text and punchy visuals.",
+    roles: ["Short-form Editing", "Kinetic Typography", "Audio Enhancement"],
+    tools: ["Adobe Premiere Pro", "Adobe After Effects"],
+    aspectRatio: "16:9",
+    thumbnail: "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?q=80&w=1200&auto=format&fit=crop",
+    brandBg: "from-[#8A1010] to-[#E50914]"
+  },
+  {
+    id: "03",
+    slug: "kims-hospitals",
+    client: "KIMS HOSPITALS",
+    category: "Brand Films | Patient Stories",
+    badge: "03",
+    description: "Empathetic documentary storytelling spotlighting medical staff, compassionate patient narratives, and clean color tone.",
+    roles: ["Long-form Narrative", "Color Grading", "Assembly"],
+    tools: ["Adobe Premiere Pro", "Adobe Photoshop"],
+    aspectRatio: "16:9",
+    thumbnail: "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1200&auto=format&fit=crop",
+    brandBg: "from-[#0B5C62] to-[#12A0A9]"
+  },
+  {
+    id: "04",
+    slug: "manepally-jewellers",
+    client: "MANEPALLY",
+    category: "Ad Films | Product Showcases",
+    badge: "04",
+    description: "Luxury commercial showcasing exquisite jewelry collections with elegant slow-motion pacing and rich warm tones.",
+    roles: ["Color Grading", "Finishing", "Audio Mastering"],
+    tools: ["Adobe Premiere Pro", "Adobe Photoshop"],
+    aspectRatio: "16:9",
+    thumbnail: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=1200&auto=format&fit=crop",
+    brandBg: "from-[#4A0D24] to-[#8E1C47]"
+  },
+  {
+    id: "05",
+    slug: "tamada-media",
+    client: "TAMADA MEDIA",
+    category: "YouTube Edits | Motion Graphics",
+    badge: "05",
+    description: "Fast-paced entertainment cuts, comedic timing, sound effects, and audience-retention packaging for web series.",
+    roles: ["Fast-Paced Editing", "Text Animations", "Sound Effects"],
+    tools: ["Adobe Premiere Pro", "Adobe After Effects"],
+    aspectRatio: "16:9",
+    thumbnail: "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=1200&auto=format&fit=crop",
+    brandBg: "from-[#C67D0B] to-[#F5A623]"
+  },
+  {
+    id: "06",
+    slug: "short-film",
+    client: "SHORT FILM",
+    category: "Editing | Colour Grading | Sound Design",
+    badge: "06",
+    description: "Cinematic narrative editing balancing quiet emotional beats, dramatic tension, soundscapes, and atmospheric color.",
+    roles: ["Narrative Assembly", "Color Grading", "Sound Design"],
+    tools: ["Adobe Premiere Pro", "Adobe After Effects"],
+    aspectRatio: "16:9",
+    thumbnail: "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=1200&auto=format&fit=crop",
+    brandBg: "from-[#111111] to-[#333333]"
+  }
+];
